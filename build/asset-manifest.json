@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TEXTFIXER/static/css/main.ac7412b4.css",
+    "main.js": "/TEXTFIXER/static/js/main.2ca496d4.js",
+    "static/js/453.72e180dc.chunk.js": "/TEXTFIXER/static/js/453.72e180dc.chunk.js",
+    "index.html": "/TEXTFIXER/index.html",
+    "main.ac7412b4.css.map": "/TEXTFIXER/static/css/main.ac7412b4.css.map",
+    "main.2ca496d4.js.map": "/TEXTFIXER/static/js/main.2ca496d4.js.map",
+    "453.72e180dc.chunk.js.map": "/TEXTFIXER/static/js/453.72e180dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac7412b4.css",
+    "static/js/main.2ca496d4.js"
+  ]
+}
